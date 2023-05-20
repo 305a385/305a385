@@ -2,6 +2,7 @@ Monero: 44DTShtRYEGjW5PgdU6bXD44iEw2fwbJNfHpsQGo9oXM4EShi6nNTbWRMeLVcWCydLQVFjcF
 
 Email: lotsof@shitposting.expert
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGRkl+UBEADarsAMprB2l9MNaKCkk3dkTDWomHBS+aILz+8KMVrIcQpTzYzy
@@ -53,3 +54,4 @@ f+tAc3igJfUguzTroUZSAIUiJsCHLTawP5UStpT3Y2T99gI9WVATr1JUXKGg3H2d
 aWBOIB0Eu4mWNoJfgkAxKP23GRFDpryrHljQ5CVQAIZxvEqTUg==
 =Aw7C
 -----END PGP PUBLIC KEY BLOCK-----
+```
