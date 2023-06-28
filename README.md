@@ -1,3 +1,5 @@
+[Left github, codeberg is my new best friend](https://codeberg.org/305a385)
+
 Monero: 
 ```
 44DTShtRYEGjW5PgdU6bXD44iEw2fwbJNfHpsQGo9oXM4EShi6nNTbWRMeLVcWCydLQVFjcFqJC1XNcdDDzjyRT4U5XcDKu
